@@ -1,0 +1,26 @@
+body {
+    font-family: monospace;
+    background-color: #14151A;
+    color: #719a86;
+}
+
+.number {
+    text-align: center;
+    left: 50px;
+    margin: auto;
+}
+
+.table {
+    margin: auto;
+    width: 500px;
+}
+
+.table__head {
+    padding-bottom: "10px";
+}
+
+td {
+    color: #CACCCE;
+    margin: auto;
+    text-align: center;
+}
